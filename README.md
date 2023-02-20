@@ -7,6 +7,5 @@ Video Presentation located here: https://cs6150project-pdv1879.slack.com/archive
 
 The Team Webpage is located at this like https://sites.google.com/view/visionaidwebinterface/home
 
-The link to the initial project presentation: https://cs6150project-pdv1879.slack.com/files/U04LLPCV75Z/F04QBP21TGC/mini_presentation_c4g_p11v1.pptx
-
+The link to the initial project presentation: https://cs6150project-pdv1879.slack.com/files/U04LLPCV75Z/F04Q8385S85/mini_presentation_c4g_p11v1.pptx
 OMSCS Engineers: Seth, Mario, Esteban and Satvik
