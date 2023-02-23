@@ -3,7 +3,7 @@
 This is encapsulation of the Spr 2023 Group 11 CS6150 Vision Aid Project homepage. On this page will show the updated code and documentation for solutions
 of the Vision Aid project.
 
-Video Presentation located here: https://cs6150project-pdv1879.slack.com/archives/C04MMPSTRHR/p1676851927220539
+Video Presentation
 
 The Team Webpage is located at this like https://sites.google.com/view/visionaidwebinterface/home
 
