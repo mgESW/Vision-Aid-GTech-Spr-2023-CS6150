@@ -5,7 +5,7 @@ of the Vision Aid project.
 
 Video Presentation https://drive.google.com/file/d/1SibZcJqEgE8Ik6OLYAZwl8itijI-R9r4/view
 
-The Team Webpage is located at this like https://sites.google.com/view/visionaidwebinterface/home
+The Team Webpage is located at this link: https://sites.google.com/view/visionaidwebinterface/home
 
 
 
